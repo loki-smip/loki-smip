@@ -10,4 +10,4 @@ https://youtu.be/xuO8G0FJ8MQ?si=fU-3PWywawwkDZQj
 loki-smip/loki-smip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://pink-husky-81.telebit.io
+https://foolish-wasp-52.telebit.io/
