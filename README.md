@@ -26,12 +26,6 @@ Beyond coding, I experiment with digital media and technology concepts.
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=loki-smip&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loki-smip&layout=compact&theme=radical)
-
----
-
 ### 🌱 Learning & Collaboration
 * **🌱 Currently Learning:** Advanced AI Training, GPU/CPU hardware internals, and low-level Rust optimization.
 * **💞️ Looking to Collaborate on:** Efficient LLM inference engines and novel attention mechanisms.
