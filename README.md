@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @loki-smip
 
 ### 🚀 Recursive AI Architect & Systems Administrator
-I am a 14-year-old developer and sysadmin focused on efficient LLM architectures and high-performance self-hosted infrastructure. I bridge the gap between deep learning and bare-metal systems.
+I am a developer and sysadmin focused on efficient LLM architectures and high-performance self-hosted infrastructure. I bridge the gap between deep learning and bare-metal systems.
 
 ---
 
