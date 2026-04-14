@@ -32,4 +32,4 @@ I document my experiments in technology and digital media.
 * **🌱 Learning:** Advanced AI Training, GPU/CPU hardware internals, and Docker orchestration.
 * **💞️ Collaboration:** Efficient LLM inference engines and high-performance computing.
 * **📫 Reach me:** [Open an Issue](https://github.com/loki-smip/Ouroboros-Recursive-LM/issues)
-* **⚡ Fun Fact:** I run my own intranet and train recursive brains after school.
+* **⚡ Fun Fact:** I run my own intranet and train recursive brains.
